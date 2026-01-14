@@ -68,7 +68,7 @@ Multithreading
 ├── overlay.py         # Privacy alert UI
 ├── requirements.txt   # Project dependencies
 └── README.md
-
+```
 ▶️ How to Run
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/privacy-shield.git
