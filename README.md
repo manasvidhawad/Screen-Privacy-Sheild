@@ -1,4 +1,5 @@
 🔐 Screen Privacy Shield
+
 📌 Overview
 
 Screen Privacy Shield is a real-time, AI-powered privacy alert system that protects users from shoulder surfing in public environments. Using a webcam and face detection, the application monitors the area behind the user and instantly displays a privacy alert overlay when unauthorized viewers are detected.
@@ -58,8 +59,9 @@ PIL (Pillow)
 
 Multithreading
 
-📂 Project Structure
-Screen-Privacy-Shield/
+## 📂 Project Structure
+
+```Screen-Privacy-Shield/
 │
 ├── main.py            # Application entry point
 ├── detector.py        # Face detection and logic processing
